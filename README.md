@@ -3,11 +3,11 @@ Projeto de localização de coleta de lixo, desenvolvido com NodeJS, ReactJS e R
 
 Telas Mobile:
 
-<img src="https://user-images.githubusercontent.com/55992886/160906478-a02d61d1-672b-43e8-ab11-8021fe4b5576.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/55992886/160906478-a02d61d1-672b-43e8-ab11-8021fe4b5576.png" width="500" height="1170">
 
-<img src="https://user-images.githubusercontent.com/55992886/160906486-87e878e8-eef8-4f51-bcd1-1835d329d992.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/55992886/160906486-87e878e8-eef8-4f51-bcd1-1835d329d992.png" width="500" height="1170">
 
-<img src="https://user-images.githubusercontent.com/55992886/160906503-a6ce59a6-54c6-4c9f-8a85-6d74e235af0c.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/55992886/160906503-a6ce59a6-54c6-4c9f-8a85-6d74e235af0c.png" width="500" height="1170">
 
 
 Telas Web:
